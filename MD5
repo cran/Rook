@@ -1,4 +1,4 @@
-e9f9cd52111e483a1b8a87dac26b7281 *DESCRIPTION
+9e7992d2dd2d1e14be1fa481fcfcc594 *DESCRIPTION
 650bfb45832c5d8a86559d66f998112e *NAMESPACE
 02f4925e8efe6b71995eb70fc92ef838 *R/App.R
 28ff39414be47e7eb14a0f7aa720a996 *R/Brewery.R
@@ -7,14 +7,14 @@ e9f9cd52111e483a1b8a87dac26b7281 *DESCRIPTION
 9a65be637551eee4d6b6cd1e30d7dd51 *R/Redirect.R
 028b53ef7c03c0fa29f0d6cfa8646a09 *R/Request.R
 7fc06954aa3751fc2233097605d36da2 *R/Response.R
-9b01f908a701566beedc2bc76bf64f38 *R/Rhttpd.R
+226a8d55071196fa1bff323dcd847f74 *R/Rhttpd.R
 388278765c045d966a5954a7a3e083fe *R/Rookery.R
 e6952d21f4eb6d2825192f527fa91d44 *R/Static.R
 4c6f94bf4d06905a12222e092509cd9e *R/URLMap.R
 f96de9e408627b7bae010551bfe82c05 *R/onLoad.R
 ca1ab77a4d132f473597c2f0654a6863 *R/suspend.R
-3386f56092b10d4819aa92fdcf58ca13 *R/utils.R
-480b84a0dcfbbaed0b8981deec5a798f *README.md
+3ac1f067bc79fc35a8784ba388c18938 *R/utils.R
+7727480eeec5244c1db39a50feb628e5 *README.md
 adf370611ed7a3759aab58762ee21b70 *inst/exampleApps/Hmisc/brew/useR2007.rhtml
 2d7419abc0eb05710ac955d5937e62b9 *inst/exampleApps/Hmisc/brew/useR2007plot.rhtml
 564c64d585bd6f6fe94e89c7c6da1cdf *inst/exampleApps/Hmisc/brew/useR2007sim.rhtml
@@ -49,11 +49,11 @@ e48a4890dcbbc101daa184ddea263fbd *man/Rhttpd-class.Rd
 4b0a5321ef95caa5c8ee322e05489929 *man/RhttpdApp-class.Rd
 b4ca5628c946c5fb5bbb562fdf2c8fbc *man/RhttpdErrorStream-class.Rd
 9a005f85b34a3ed81e9f8052cbb85f5f *man/RhttpdInputStream-class.Rd
-88c81e7020ea705be2e8def1137cb636 *man/Rook-package.Rd
+37c3bfa7a9676283b69f24e689f89aa1 *man/Rook-package.Rd
 7cf4a6c046827a368011f0bf0e941e40 *man/Server.Rd
 d1df0d5241859943648746094a829bd2 *man/Static-class.Rd
 9ad6afcaa735ae237a4fff8046208808 *man/URLMap-class.Rd
 ed543f4c501e0a118cd0b1444013378c *man/Utils-class.Rd
 3a1e51a545be75c909c32534cd279208 *man/is_rookable.Rd
 3204397bf12765f04e930e3755216714 *man/suspend_console.Rd
-b89621c0102d6c2ab1f0ee2fed59b930 *src/rook.c
+870020f795f8ffbaea8cef7c79afca02 *src/rook.c

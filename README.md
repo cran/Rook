@@ -1,7 +1,19 @@
+[![<evanbiederstedt>](https://circleci.com/gh/evanbiederstedt/Rook.svg?style=svg)](https://app.circleci.com/pipelines/github/evanbiederstedt/Rook)
+[![CRAN status](https://www.r-pkg.org/badges/version/Rook)](https://cran.r-project.org/package=Rook)
+[![CRAN downloads](https://cranlogs.r-pkg.org/badges/Rook)](https://cran.r-project.org/package=Rook)
+
+
+**NOTE:** This is a fork of the original project at https://github.com/jeffreyhorner/Rook
+
+The original maintainer didn't respond to fix various issues which required the package to be removed from CRAN. 
+
+This fork fixes those issues. As a consequence, I ([@evanbiederstedt](https://github.com/evanbiederstedt)) am the new maintainer. 
+
+
 Rook: A web server interface for R
 =======================================
 
-This pecification defines the interface between web servers and R applications.
+This specification defines the interface between web servers and R applications.
 
 Rook applications
 -----------------
@@ -27,7 +39,7 @@ Here is a basic Rook application as a closure that implements 'hello world':
 	)
     }
 
-And the equivalent referenc class example:
+And the equivalent reference class example:
 
     setRefClass(
 	'HelloWorld',
